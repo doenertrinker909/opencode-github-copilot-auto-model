@@ -1,2 +1,6 @@
-node_modules
-dist
+node_modules/
+dist/
+probe.log
+
+# Local development config, not part of the package
+opencode.json
